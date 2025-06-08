@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\LINQ (Language Integrated Query)2\LINQ (Language Integrated Query)2\bin\Debug\LINQ (Language Integrated Query)2.exe.config
+C:\Users\mitha\source\repos\LINQ (Language Integrated Query)2\LINQ (Language Integrated Query)2\bin\Debug\LINQ (Language Integrated Query)2.exe
+C:\Users\mitha\source\repos\LINQ (Language Integrated Query)2\LINQ (Language Integrated Query)2\bin\Debug\LINQ (Language Integrated Query)2.pdb
+C:\Users\mitha\source\repos\LINQ (Language Integrated Query)2\LINQ (Language Integrated Query)2\obj\Debug\LINQ (Language Integrated Query)2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\LINQ (Language Integrated Query)2\LINQ (Language Integrated Query)2\obj\Debug\LINQ (Language Integrated Query)2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\LINQ (Language Integrated Query)2\LINQ (Language Integrated Query)2\obj\Debug\LINQ (Language Integrated Query)2.exe
+C:\Users\mitha\source\repos\LINQ (Language Integrated Query)2\LINQ (Language Integrated Query)2\obj\Debug\LINQ (Language Integrated Query)2.pdb
